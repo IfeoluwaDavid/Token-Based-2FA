@@ -1,19 +1,19 @@
-# Token-Based-2FA
+# Token-Based-2FA (TB2FA)
 
-## Parts Crib Database - User Login.
+## TB2FA - User Login.
 ![alt text](https://github.com/IfeoluwaDavid/Token-Based-2FA/blob/master/screenshots/screenshot1.PNG)
 
-## Parts Crib Database - Next Step Message.
+## TB2FA - Next Step Message.
 ![alt text](https://github.com/IfeoluwaDavid/Token-Based-2FA/blob/master/screenshots/screenshot2.PNG)
 
-## Parts Crib Database - Verification Email Received.
+## TB2FA - Verification Email Received.
 ![alt text](https://github.com/IfeoluwaDavid/Token-Based-2FA/blob/master/screenshots/screenshot3.PNG)
 
-## Parts Crib Database - Access Page.
+## TB2FA - Access Page.
 ![alt text](https://github.com/IfeoluwaDavid/Token-Based-2FA/blob/master/screenshots/screenshot4.PNG)
 
-## Parts Crib Database - Home Page.
+## TB2FA - Home Page.
 ![alt text](https://github.com/IfeoluwaDavid/Token-Based-2FA/blob/master/screenshots/screenshot5.PNG)
 
-## Parts Crib Database - Access Control Matrix.
+## TB2FA - Access Control Matrix (Database Implementation).
 ![alt text](https://github.com/IfeoluwaDavid/Token-Based-2FA/blob/master/screenshots/screenshot6.PNG)
