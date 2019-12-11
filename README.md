@@ -7,13 +7,13 @@
 ![alt text](https://github.com/IfeoluwaDavid/Token-Based-2FA/blob/master/screenshots/screenshot2.PNG)
 
 ## Parts Crib Database - Verification Email Received.
-![alt text](https://github.com/IfeoluwaDavid/Token-Based-2FA/blob/master/Screenshots/screenshot3.PNG)
+![alt text](https://github.com/IfeoluwaDavid/Token-Based-2FA/blob/master/screenshots/screenshot3.PNG)
 
 ## Parts Crib Database - Access Page.
-![alt text](https://github.com/IfeoluwaDavid/Token-Based-2FA/blob/master/Screenshots/screenshot4.PNG)
+![alt text](https://github.com/IfeoluwaDavid/Token-Based-2FA/blob/master/screenshots/screenshot4.PNG)
 
 ## Parts Crib Database - Home Page.
-![alt text](https://github.com/IfeoluwaDavid/Token-Based-2FA/blob/master/Screenshots/screenshot5.PNG)
+![alt text](https://github.com/IfeoluwaDavid/Token-Based-2FA/blob/master/screenshots/screenshot5.PNG)
 
 ## Parts Crib Database - Access Control Matrix.
-![alt text](https://github.com/IfeoluwaDavid/Token-Based-2FA/blob/master/Screenshots/screenshot6.PNG)
+![alt text](https://github.com/IfeoluwaDavid/Token-Based-2FA/blob/master/screenshots/screenshot6.PNG)
