@@ -1,0 +1,358 @@
+[01-Dec-2019 11:48:57 America/Chicago] PHP Warning:  require_once(../../private/initialize.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/FakeUniversity/public/login.php on line 3
+[01-Dec-2019 11:48:57 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../../private/initialize.php' (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/FakeUniversity/public/login.php on line 3
+[01-Dec-2019 11:58:31 America/Chicago] PHP Warning:  require_once(../../private/initialize.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/FakeUniversity/public/login.php on line 3
+[01-Dec-2019 11:58:31 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../../private/initialize.php' (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/FakeUniversity/public/login.php on line 3
+[01-Dec-2019 11:59:48 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'webuser'@'localhost' (using password: YES) in /home4/ifedaviid/public_html/FakeUniversity/private/db_functions.php on line 6
+[01-Dec-2019 11:59:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function display_errors() in /home4/ifedaviid/public_html/FakeUniversity/public/login.php:66
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/FakeUniversity/public/login.php on line 66
+[01-Dec-2019 12:03:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function display_errors() in /home4/ifedaviid/public_html/FakeUniversity/public/login.php:66
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/FakeUniversity/public/login.php on line 66
+[01-Dec-2019 12:03:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function display_errors() in /home4/ifedaviid/public_html/FakeUniversity/public/login.php:64
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/FakeUniversity/public/login.php on line 64
+[01-Dec-2019 12:11:18 America/Chicago] PHP Warning:  include(feedbacks/loginerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/FakeUniversity/public/login.php on line 70
+[01-Dec-2019 12:11:18 America/Chicago] PHP Warning:  include(feedbacks/loginerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/FakeUniversity/public/login.php on line 70
+[01-Dec-2019 12:11:18 America/Chicago] PHP Warning:  include(): Failed opening 'feedbacks/loginerror.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/FakeUniversity/public/login.php on line 70
+[01-Dec-2019 17:52:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function is_blank() in /home4/ifedaviid/public_html/FakeUniversity/public/login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/FakeUniversity/public/login.php on line 16
+[01-Dec-2019 17:55:06 America/Chicago] PHP Warning:  require_once(database.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/FakeUniversity/private/initialize.php on line 22
+[01-Dec-2019 17:55:06 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'database.php' (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/FakeUniversity/private/initialize.php on line 22
+[01-Dec-2019 17:55:09 America/Chicago] PHP Warning:  require_once(database.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/FakeUniversity/private/initialize.php on line 22
+[01-Dec-2019 17:55:09 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'database.php' (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/FakeUniversity/private/initialize.php on line 22
+[01-Dec-2019 17:56:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function find_admin_by_username() in /home4/ifedaviid/public_html/FakeUniversity/public/login.php:31
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/FakeUniversity/public/login.php on line 31
+[01-Dec-2019 18:40:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function db_escape() in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php:16
+Stack trace:
+#0 /home4/ifedaviid/public_html/FakeUniversity/public/login.php(31): find_user('ifeoluwaadese@y...')
+#1 {main}
+  thrown in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 16
+[01-Dec-2019 18:41:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function db_escape() in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php:16
+Stack trace:
+#0 /home4/ifedaviid/public_html/FakeUniversity/public/login.php(31): find_user('ifeoluwaadese@y...')
+#1 {main}
+  thrown in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 16
+[01-Dec-2019 18:55:51 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 9
+[01-Dec-2019 21:39:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function sendToken() in /home4/ifedaviid/public_html/FakeUniversity/public/login.php:38
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/FakeUniversity/public/login.php on line 38
+[01-Dec-2019 21:40:00 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 23
+[01-Dec-2019 21:42:00 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 24
+[01-Dec-2019 21:43:07 America/Chicago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ',' or ';' in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 40
+[01-Dec-2019 21:43:20 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 24
+[02-Dec-2019 07:06:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function find_one_in_fake_db() in /home4/ifedaviid/public_html/FakeUniversity/private/token_functions.php:31
+Stack trace:
+#0 /home4/ifedaviid/public_html/FakeUniversity/public/verify.php(12): find_user_with_token('7f5c5cc272a021e...')
+#1 {main}
+  thrown in /home4/ifedaviid/public_html/FakeUniversity/private/token_functions.php on line 31
+[02-Dec-2019 07:40:37 America/Chicago] PHP Fatal error:  Cannot redeclare find_user_with_token() (previously declared in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php:44) in /home4/ifedaviid/public_html/FakeUniversity/private/token_functions.php on line 35
+[02-Dec-2019 07:53:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:53:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:53:51 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:31 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:31 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:31 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:32 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:32 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:32 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:33 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:33 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:33 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:34 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:34 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:34 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:35 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:35 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:35 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:35 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:36 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:36 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:36 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:37 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:41 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:41 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:44 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:44 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:44 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:44 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:46 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:46 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:46 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:50 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:50 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:50 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:51 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:51 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:01 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:02 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:02 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:02 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:03 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:03 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:03 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:03 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:04 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:04 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:04 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:04 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:05 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:05 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:05 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:05 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:06 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:06 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:06 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:06 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:07 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:07 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:07 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:07 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:08 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:08 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:08 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:08 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:09 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:09 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:09 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:09 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:10 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:10 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:10 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:10 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:11 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:11 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:11 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:12 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:52 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:52 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:52 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:53 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:53 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:53 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:54 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:54 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:54 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:54 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:55 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:55 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:55 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:56 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:56 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:56 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:56 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:57 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:57 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:57 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:58 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:58 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:58 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:59 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:59 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:59 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:59 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:56:00 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:56:00 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:56:00 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:56:01 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:56:01 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:56:01 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:56:01 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:56:02 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:56:02 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:56:02 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:56:02 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:56:03 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:56:03 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:13 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:14 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:14 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:14 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:14 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:15 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:15 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:15 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:16 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:16 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:16 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:17 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:17 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:17 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:18 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:18 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:18 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:19 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:19 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:19 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:19 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:20 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:20 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:20 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:20 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:21 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:21 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:21 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:25 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:30 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:30 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:31 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:31 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:31 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:31 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:32 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:32 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:32 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:33 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:33 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:33 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:33 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:34 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:34 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:34 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:35 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:35 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:35 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:35 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:46 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:46 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:46 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:46 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:00:41 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:00:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:00:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:00:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:00:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:00:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:00:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:00:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:00:44 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:00:44 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:00:44 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:00:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:00:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:00:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:00:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:00:46 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:06:51 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:06:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function request_is_post() in /home4/ifedaviid/public_html/FakeUniversity/public/verify.php:25
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/FakeUniversity/public/verify.php on line 25
+[02-Dec-2019 08:15:37 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:19:36 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:23:14 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:23:14 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:23:15 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:23:15 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:23:15 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:23:16 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:23:16 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:23:16 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:23:16 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:23:16 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:23:17 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:23:17 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:23:17 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:23:17 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:23:18 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:23:18 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 13:36:31 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 79
+[02-Dec-2019 14:46:43 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 79
+[02-Dec-2019 15:00:07 America/Chicago] PHP Warning:  include(SHARED_PATH/header.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/FakeUniversity/public/message.php on line 12
+[02-Dec-2019 15:00:07 America/Chicago] PHP Warning:  include(SHARED_PATH/header.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/FakeUniversity/public/message.php on line 12
+[02-Dec-2019 15:00:07 America/Chicago] PHP Warning:  include(): Failed opening 'SHARED_PATH/header.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/FakeUniversity/public/message.php on line 12
+[02-Dec-2019 15:00:07 America/Chicago] PHP Warning:  include(SHARED_PATH/footer.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/FakeUniversity/public/message.php on line 25
+[02-Dec-2019 15:00:07 America/Chicago] PHP Warning:  include(SHARED_PATH/footer.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/FakeUniversity/public/message.php on line 25
+[02-Dec-2019 15:00:07 America/Chicago] PHP Warning:  include(): Failed opening 'SHARED_PATH/footer.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/FakeUniversity/public/message.php on line 25
+[02-Dec-2019 15:27:03 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 79
+[02-Dec-2019 15:54:18 America/Chicago] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function getverificationkey(), 0 passed in /home4/ifedaviid/public_html/FakeUniversity/public/verify.php on line 19 and exactly 1 expected in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php:45
+Stack trace:
+#0 /home4/ifedaviid/public_html/FakeUniversity/public/verify.php(19): getverificationkey()
+#1 {main}
+  thrown in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 45
+[02-Dec-2019 15:55:39 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 15:58:08 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 16:02:30 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 53
+[02-Dec-2019 16:11:09 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 95
+[02-Dec-2019 16:25:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token_tag() in /home4/ifedaviid/public_html/FakeUniversity/public/login.php:61
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/FakeUniversity/public/login.php on line 61
+[02-Dec-2019 19:53:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 13
+[02-Dec-2019 19:54:10 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 13
+[02-Dec-2019 19:56:01 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 76
+[02-Dec-2019 19:57:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 76
+[02-Dec-2019 19:57:58 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 76
+[02-Dec-2019 20:11:43 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 10
+[02-Dec-2019 20:11:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 12
+[03-Dec-2019 09:40:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php:114
+Stack trace:
+#0 /home4/ifedaviid/public_html/FakeUniversity/public/index.php(31): getuserpermissions('1')
+#1 {main}
+  thrown in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 114
+[03-Dec-2019 09:41:19 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 114
+[10-Dec-2019 23:07:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function is_blank() in /home4/ifedaviid/public_html/FakeUniversity/public/login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/FakeUniversity/public/login.php on line 16
+[10-Dec-2019 23:09:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function is_blank() in /home4/ifedaviid/public_html/FakeUniversity/public/login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/FakeUniversity/public/login.php on line 16
+[10-Dec-2019 23:10:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function has_presence() in /home4/ifedaviid/public_html/FakeUniversity/public/verify.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/FakeUniversity/public/verify.php on line 21

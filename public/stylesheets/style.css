@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
+
+* {
+    
+	box-sizing: border-box;
+	overflow: hidden;
+}
+
+body {
+	background-image: url("/membership/media/bayalgoma-aerial.jpg");
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	font-family: 'Montserrat', sans-serif;
+	height: 100vh;
+	margin: -20px 0 50px;
+}
+
+p {
+	font-size: 14px;
+	font-weight: 100;
+	line-height: 20px;
+	letter-spacing: 0.5px;
+	text-align: center;
+}
+
+/*****************************************************/
+/* INPUT FIELDS */
+/*****************************************************/
+
+.input-group label {
+	display: block;
+	text-align: left;
+	margin: 10px;
+}
+
+.login-input-container
+{
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  
+}
+
+.buttons-container {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+}
+
+.icon {
+  padding: 10px;
+  background: #383838;
+  color: white;
+  min-width: 50px;
+  text-align: center;
+}
+
+.sign-in-input {
+    background-color: #eee;
+	border: none;
+	padding: 10px;
+	margin: 4px 0;
+	width: 300px;
+}
+
+.sign-in-header {
+	font-weight: bold;
+	margin: 0;
+	text-align: center;
+}
+
+.input-field:focus {
+  border: 2px solid dodgerblue;
+}
+
+/*****************************************************/
+/* HEADERS */
+/*****************************************************/
+
+
+
+/*****************************************************/
+/* BUTTONS */
+/*****************************************************/
+
+button
+{
+	border-radius: 20px;
+	border: 1px solid #383838;
+	background-color: #383838;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 12px 45px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	transition: transform 80ms ease-in;
+	margin: 5px 0;
+}
+
+button:active {
+	transform: scale(0.95);
+}
+
+button:focus {
+	outline: none;
+}
+
+button.longprimary {
+    width: 100%;
+}
+
+button.shortprimary {
+    width: auto;
+}
+
+button.longsecondary {
+    width: 100%;
+	background-color: transparent;
+	border: 2px solid #383838;
+	color: #383838;
+}
+
+button.shortsecondary {
+	background-color: transparent;
+	border: 2px solid #383838;
+	color: #383838;
+	width: auto;
+}
+
+.errorFeedback
+{
+	border: 1px solid #a94442; 
+	color: #a94442; 
+	background: #f2dede; 
+	border-radius: 5px; 
+	text-align: center;
+	margin: 5px;
+	padding: 10px;
+	text-align: center;
+	padding-right: 10px;
+}
+
+.container {
+	background-color: #fff;
+	border-radius: 10px;
+  	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+	position: relative;
+	overflow: hidden;
+	width: 768px;
+	max-width: 100%;
+	min-height: 480px;
+}
+
+.form-container {
+	position: absolute;
+	top: 0;
+	height: 300px;
+	transition: all 0.2s ease-in-out;
+}
